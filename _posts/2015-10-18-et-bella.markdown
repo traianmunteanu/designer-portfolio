@@ -3,6 +3,7 @@ layout: post
 title:  "Et bella"
 date:   2015-10-18 11:58:14
 categories: jekyll update
+featured: true
 ---
 
 ## Aena nocte
