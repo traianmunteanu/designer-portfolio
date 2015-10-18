@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Iactura sociamque Fando ingestoque vidit in et"
+title:  "Project 2"
 date:   2015-10-18 14:58:14
 categories: project
+featured_image: "images/project.jpg"
 tags: inspiration code
 ---
 

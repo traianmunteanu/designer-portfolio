@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Et bella"
+title:  "Project 1"
 date:   2015-10-18 11:58:14
 categories: project
 featured: true
+featured_image: "images/project.jpg"
 tags: design
 ---
 

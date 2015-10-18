@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Qui o Latoius"
+title:  "Project 3"
 date:   2015-10-18 13:58:14
 categories: project
+featured_image: "images/project.jpg"
 tags: layout
 ---
 
