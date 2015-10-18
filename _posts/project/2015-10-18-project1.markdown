@@ -2,8 +2,9 @@
 layout: post
 title:  "Et bella"
 date:   2015-10-18 11:58:14
-categories: jekyll update
+categories: project
 featured: true
+tags: design
 ---
 
 ## Aena nocte

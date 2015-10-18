@@ -2,7 +2,8 @@
 layout: post
 title:  "Iactura sociamque Fando ingestoque vidit in et"
 date:   2015-10-18 14:58:14
-categories: jekyll update
+categories: blog
+tags: inspiration code
 ---
 
 ## Creverunt maximus temeraria est ignesque pius vino

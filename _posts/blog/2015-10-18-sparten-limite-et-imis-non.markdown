@@ -2,7 +2,8 @@
 layout: post
 title:  "Sparten limite et imis non nocebant semper"
 date:   2015-10-18 12:58:14
-categories: jekyll update
+categories: blog
+tags: snippet
 ---
 
 ## Iamque mihi Marsque Isi euntem

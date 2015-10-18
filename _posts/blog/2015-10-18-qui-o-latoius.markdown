@@ -2,7 +2,8 @@
 layout: post
 title:  "Qui o Latoius"
 date:   2015-10-18 13:58:14
-categories: jekyll update
+categories: blog
+tags: layout
 ---
 
 ## Ferro hostem motu madent aethera simile hortator
