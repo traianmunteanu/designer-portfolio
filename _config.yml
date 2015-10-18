@@ -6,21 +6,21 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://example.com" # the base hostname & protocol for your site
 
-twitter_username: jekyllrb
-github_username:  jekyll
-google_username: guyroutledge
+twitter_username: helloTraian
+github_username:  traianmunteanu
+google_username: traianmunteanu
 
 permalink: /:categories/:title
 
 links:
-  -title: about
-  url: /about
-  -title: work
-  url: /work
-  -title: articles
-  url: /articles
-  -title: hire me
-  url: /hire-me
+  - title: about
+    url: /about
+  - title: work
+    url: /work
+  - title: articles
+    url: /articles
+  - title: hire me
+    url: /hire-me
 
 # Build settings
 markdown: kramdown
